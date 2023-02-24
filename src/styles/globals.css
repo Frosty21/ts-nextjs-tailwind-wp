@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.f-container {
+  @apply container max-w-screen-md mx-auto;
+}
+
+.card {
+  @apply block p-4 space-y-2 border border-gray-300 rounded-xl overflow-hidden;
+}
