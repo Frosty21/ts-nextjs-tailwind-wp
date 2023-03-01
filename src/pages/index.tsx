@@ -63,14 +63,14 @@ export default function Home({ page, posts }: HomeProps) {
       </main>
 
       <footer className="w-full mt-8 text-lg text-center text-gray-700">
-        © 2022 By{" "}
+        © 2022 By Signal Reserve Devs{" "}
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/mickasmt"
+          href="https://github.com/Frosty21"
           className="font-semibold border-b border-dotted border-black/50 hover:border-black/100"
         >
-          Mickasmt
+          Froese
         </a>
       </footer>
     </div>
